@@ -1,0 +1,2 @@
+include ':printlibrary'
+include ':app', ':ocr_ui'
